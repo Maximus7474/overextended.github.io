@@ -1,8 +1,5 @@
 {
   "index": "Introduction",
-  "guides": "Guides",
-  "oxmysql": "OxMySQL",
-  "ox_lib": "Ox Lib",
   "fivemanage": {
     "title": "Fivemanage",
     "type": "page",
@@ -17,5 +14,8 @@
     "title": "Support us",
     "type": "page",
     "href": "/#support-our-team"
-  }
+  },
+  "guides": "Guides",
+  "oxmysql": "OxMySQL",
+  "ox_lib": "Ox Lib"
 }
